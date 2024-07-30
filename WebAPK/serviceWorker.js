@@ -9,7 +9,7 @@ var CACHE_NAME = 'webapk-cache';
 var urlsToCache = [
 	'https://canal86.my.id',
 	'https://canal86.my.id/index.html',
-	'https://cdn.jsdelivr.net/gh/canhabsyi/canal86@main/logo/favicon.png',
+	'https://cdn.jsdelivr.net/gh/canhabsyi/canal86@main/WebAPK/logo.png',
 	'https://cdn.jsdelivr.net/gh/canhabsyi/canal86@main/WebAPK/manifest.json',
 ];
 var urlsNotToCache = [
