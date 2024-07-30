@@ -7,11 +7,10 @@
 var cacheAll = true;
 var CACHE_NAME = 'webapk-cache';
 var urlsToCache = [
-	'/',
-	'/index.html',
-	'/WebAPK/logo.png',
-	'/WebAPK/manifest.json',
-	'/css/assets/revamp/css/useetv-style.css',
+	'https://canal86.my.id',
+	'https://canal86.my.id/index.html',
+	'https://cdn.jsdelivr.net/gh/canhabsyi/canal86@main/logo/favicon.png',
+	'https://cdn.jsdelivr.net/gh/canhabsyi/canal86@main/WebAPK/manifest.json',
 ];
 var urlsNotToCache = [
 	// Urls that don't need to be cached can be added here explicitly
