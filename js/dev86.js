@@ -17,4 +17,4 @@
                 window.location.href = "https://rumble.com";
             }
         });
-    </script>
+</script>
