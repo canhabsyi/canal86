@@ -37,6 +37,19 @@ function spotv2() {
     changeVideo("https://ambontv.my.id/embed/spotv2.html");
 }
 
+
+function sportstars() {
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_2499968=4-mp4a_98800_eng=3.m3u8");
+}
+
+function sportstars2() {
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2-avc1_2499968=7-mp4a_98800_eng=3.m3u8");
+}
+
+function soccer() {
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd&keyId=4d38060bf41b3c29df0ec950ece6b5da&key=7ee9506b13480491d79b71c062ab5366");
+}
+
 function ssc1() {
     changeVideo("https://canhabsyi.github.io/plyr/?url=https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd&keyId=d84c325f36814f39bbe59080272b10c3&key=550727de4c96ef1ecff874905493580f");
 }
