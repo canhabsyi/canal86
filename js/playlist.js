@@ -1,5 +1,5 @@
 // URL video pertama yang akan ditampilkan saat halaman dimuat
-const videoPertama = 'https://canhabsyi.github.io/plyr/?url=https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_264.m3u8';
+const videoPertama = 'https://canhabsyi.github.io/jwp/?url=https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_264.m3u8';
 
 // Atur video pertama saat halaman dimuat
 document.addEventListener('DOMContentLoaded', function() {
@@ -215,7 +215,7 @@ function mentari() {
 }
 
 function rcti() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8");
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://proxy.tsuchikage.my.id/https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8");
 }
 
 function gtv() {
