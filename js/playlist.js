@@ -247,6 +247,10 @@ function bioskopid() {
     changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8");
 }
 
+function imc() {
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8");
+}
+
 function net() {
     changeVideo("https://canhabsyi.github.io/plyr/?url=https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8");
 }
