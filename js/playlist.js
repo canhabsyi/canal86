@@ -26,7 +26,7 @@ function bri() {
 
 
 function rbtv() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_264.m3u8");
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_264.m3u8");
 }
 
 function spotv1() {
@@ -328,6 +328,14 @@ function srbytv() {
 
 function bdgtv() {
     changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/http://202.150.153.254:443/bandungtvWEBSITE.m3u8");
+}
+
+function banten() {
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8");
+}
+
+function brtv() {
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8");
 }
 
 function jitv() {
