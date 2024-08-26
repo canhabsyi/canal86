@@ -231,11 +231,11 @@ function inews() {
 }
 
 function trans7() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8");
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd");
 }
 
 function transtv() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8");
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://cdn09jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd");
 }
 
 function cnn() {
