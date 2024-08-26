@@ -227,7 +227,7 @@ function mnctv() {
 }
 
 function inews() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/http://melon-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8");
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://proxy.tsuchikage.my.id/http://melon-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8");
 }
 
 function trans7() {
