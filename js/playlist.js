@@ -252,7 +252,7 @@ function imc() {
 }
 
 function flik() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd?keyId=69646b755f3130303030303030303030&key=e4a2359b05563399f1d9adfce641724a");
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd?keyId=69646b755f3130303030303030303030&key=e4a2359b05563399f1d9adfce641724a");
 }
 
 function net() {
