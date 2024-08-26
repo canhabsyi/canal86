@@ -251,6 +251,10 @@ function imc() {
     changeVideo("https://canhabsyi.github.io/jwp/?url=https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8");
 }
 
+function flik() {
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd?keyId=69646b755f3130303030303030303030&key=e4a2359b05563399f1d9adfce641724a");
+}
+
 function net() {
     changeVideo("https://canhabsyi.github.io/plyr/?url=https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8");
 }
