@@ -349,3 +349,23 @@ function salira() {
 function qurantv() {
     changeVideo("https://canhabsyi.github.io/plyr/?url=https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8");
 }
+
+
+
+
+
+
+
+
+
+function tv2() {
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd");
+}
+
+function tv3() {
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8");
+}
+
+function tv9() {
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8");
+}
