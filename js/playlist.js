@@ -170,11 +170,11 @@ function dubais3() {
 }
 
 function ads1() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/hls/index.m3u8");
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://proxy.tsuchikage.my.id/https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/hls/index.m3u8");
 }
 
 function ads2() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/hls/index.m3u8");
+    changeVideo("https://canhabsyi.github.io/jwp/?url==https://proxy.tsuchikage.my.id/https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/hls/index.m3u8");
 }
 
 
