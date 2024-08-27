@@ -240,11 +240,11 @@ function mnctv() {
 }
 
 function inews() {
-    changeVideo("https://canhabsyi.github.io/jwp/?url=https://proxy.tsuchikage.my.id/http://melon-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8");
+    changeVideo("https://canhabsyi.github.io/jwp/?url=http://melon-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8");
 }
 
 function trans7() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd");
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd");
 }
 
 function transtv() {
