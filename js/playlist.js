@@ -232,11 +232,11 @@ function rcti() {
 }
 
 function gtv() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8");
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8");
 }
 
 function mnctv() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8");
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8");
 }
 
 function inews() {
@@ -359,7 +359,7 @@ function qurantv() {
 
 
 function tv2() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd");
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd");
 }
 
 function tv3() {
