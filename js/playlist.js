@@ -257,7 +257,7 @@ function cnn() {
 
 
 function bioskopid() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8");
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8");
 }
 
 function imc() {
