@@ -82,28 +82,28 @@ function sscex3() {
     changeVideo("https://canhabsyi.github.io/plyr/?url=https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd&keyId=98cfd6fd4812497fb24dc75f7545f2ee&key=d3006ee69e77b25939728ebf30d3180a");
 }
 
-function dazn1() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd?keyId=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769");
+function dazn1es() {
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd&keyId=44dd9cd370b08a868ead115fe84ecfde&key=bff19ab0a51cf14e848389b152913fd0");
 }
 
-function dazn2() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd?keyId=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769");
+function dazn2es() {
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd&keyId=0eab5a3f3e3b4ba5d42d40ca30d17571&key=f3f061ded9b70e8160590d5802ecda6d");
 }
 
-function dazn3() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd?keyId=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769");
+function dazn3es() {
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd&keyId=bad8efff688c0dbb3711e4a7114c22a3&key=6ba800673b20776c0c850130d45e1920");
 }
 
-function dazn4() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd?keyId=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769");
+function dazn4es() {
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd&keyId=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8");
 }
 
-function dazn5() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd?keyId=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769");
+function daznlaliga() {
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd&keyId=6d08b265a6639e32da7c880d5491e3d2&key=0c92556ca14b95f367993710e7cfbc94");
 }
 
-function dazn6() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://dzn.starlive.workers.dev//https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd?keyId=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769");
+function daznf1() {
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd&keyId=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa");
 }
 
 function digi() {
