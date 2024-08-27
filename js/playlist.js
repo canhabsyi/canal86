@@ -228,7 +228,7 @@ function mentari() {
 }
 
 function rcti() {
-    changeVideo("https://canhabsyi.github.io/jwp/?url=https://proxy.tsuchikage.my.id/https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8");
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8");
 }
 
 function gtv() {
