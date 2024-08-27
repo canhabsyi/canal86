@@ -244,7 +244,7 @@ function inews() {
 }
 
 function trans7() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd");
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://cdn09jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd");
 }
 
 function transtv() {
