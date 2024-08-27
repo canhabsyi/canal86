@@ -252,7 +252,7 @@ function transtv() {
 }
 
 function cnn() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8");
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8");
 }
 
 
