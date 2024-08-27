@@ -232,15 +232,15 @@ function rcti() {
 }
 
 function gtv() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd?keyId=88f6c7cbd793374cb5f12d7e26dcd63b&key=e82daa7c7bfb03d99327463fdbd37336");
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8");
 }
 
 function mnctv() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd?keyId=828e0aba9825c3546a2831e4c0c36f7f&key=f85d3dcd38981368ab3da597e97ebdcc");
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8");
 }
 
 function inews() {
-    changeVideo("https://canhabsyi.github.io/jwp/?url=http://melon-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8");
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://inews-cutv.rctiplus.id/inews-sdi.m3u8");
 }
 
 function trans7() {
