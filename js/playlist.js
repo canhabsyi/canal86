@@ -208,7 +208,7 @@ function antv() {
 }
 
 function tvone() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd");
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne");
 }
 
 function indosiar() {
