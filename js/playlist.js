@@ -281,7 +281,7 @@ function metrotv() {
 }
 
 function rtv() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8");
+    changeVideo("https://canhabsyi.github.io/plyr/?url=https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd");
 }
 
 function magna() {
