@@ -327,7 +327,7 @@ function srbytv() {
 }
 
 function bdgtv() {
-    changeVideo("https://canhabsyi.github.io/plyr/?url=https://proxy.tsuchikage.my.id/http://202.150.153.254:443/bandungtvWEBSITE.m3u8");
+    changeVideo("https://canhabsyi.github.io/jwp/?url=https://billing.tfms.xyz/http://202.150.153.254:443/bandungtvWEBSITE.m3u8");
 }
 
 function banten() {
