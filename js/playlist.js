@@ -20,11 +20,60 @@ function changeVideo(url) {
     }
 }
 
+
+
+
+
+// LIVE EVENT
 function bri() {
     changeVideo("https://cineasticview.blogspot.com/2024/08/ligaidn.html");
 }
 
+function ucl() {
+    changeVideo("https://cineasticview.blogspot.com/2024/08/ligachampion.html");
+}
 
+function epl() {
+    changeVideo("https://cineasticview.blogspot.com/2024/08/ligainggris.html");
+}
+
+function laliga() {
+    changeVideo("https://cineasticview.blogspot.com/2024/08/ligaspanyol.html");
+}
+
+function seriea() {
+    changeVideo("https://cineasticview.blogspot.com/2024/08/ligaitalia.html");
+}
+
+function ligue1() {
+    changeVideo("https://cineasticview.blogspot.com/2024/08/ligafrancis.html");
+}
+
+function bundes() {
+    changeVideo("https://cineasticview.blogspot.com/2024/08/ligajerman.html");
+}
+
+function motogp() {
+    changeVideo("https://rakettvcom.blogspot.com/2024/07/gp.html");
+}
+
+function bwf() {
+    changeVideo("https://rakettvcom.blogspot.com/2024/07/bwf_28.html");
+}
+
+function voly() {
+    changeVideo("https://rakettvcom.blogspot.com/2024/07/voli.html");
+}
+
+
+
+
+
+
+
+
+
+// SPORTS
 function rbtv() {
     changeVideo("https://canhabsyi.github.io/jwp/?url=https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_264.m3u8");
 }
