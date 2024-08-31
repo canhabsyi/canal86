@@ -32,5 +32,6 @@ var jwDefaults = {
   },
   "stretching": "uniform",
   "width": "100%"
+  "pipIcon": "disabled",
 };
 jwplayer.defaults = jwDefaults;
