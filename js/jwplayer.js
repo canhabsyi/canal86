@@ -5,6 +5,13 @@
 
 var jwDefaults = {
   "pipIcon": "disabled",
+  "sharing": {
+  "code": "",
+  "sites": [
+  "facebook",
+  "twitter",
+  "email"]
+  },
   "skin": {
     "controlbar": {
       "background": "rgba(0,0,0,0)",
