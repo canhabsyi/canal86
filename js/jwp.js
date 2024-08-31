@@ -56,6 +56,7 @@ var jwDefaults = {
     "hide": false,
     "position": "top-right"
   },
+  "mute": true,
   "ph": 1,
   "pid": "0XIEUecc",
   "pipIcon": "disabled",
