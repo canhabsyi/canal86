@@ -3,7 +3,7 @@
 	"name": "AmbonTV",
 	"short_name": "AmbonTV",
 	"description": "Official",
-	"orientation": "portrait",
+	"orientation": "any",
 	"start_url": "https://canal86.my.id/",
 	"scope": "/",
 	"display": "standalone",
