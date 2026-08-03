@@ -17,7 +17,7 @@ var jwDefaults = {
     "controlbar": {
       "background": "rgba(0,0,0,0)",
       "icons": "rgba(255,255,255,0.8)",
-      "iconsActive": "#ff0000",
+      "iconsActive": "#0B97F4",
       "text": "#FFFFFF"
     },
     "menus": {
@@ -26,7 +26,7 @@ var jwDefaults = {
       "textActive": "#FFFFFF"
     },
     "timeslider": {
-      "progress": "#ff0000",
+      "progress": "#0F0344",
       "rail": "rgba(255,255,255,0.3)"
     },
     "tooltips": {
